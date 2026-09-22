@@ -32,5 +32,5 @@ REST API для управления задачами: CRUD-операции, в
 
 ## Связаться со мной
 
-Если вам нужен Telegram-бот или backend на Python, напишите мне в Telegram: [@tqrw_ee](https://t.me/tgrw_ee)
+Если вам нужен Telegram-бот или backend на Python, напишите мне в Telegram: [@ayaz_shakirov](https://t.me/ayaz_shakirov)
 
